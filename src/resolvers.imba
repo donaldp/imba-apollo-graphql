@@ -2,7 +2,6 @@ import { books } from './books'
 
 export const resolvers = {
 	Query: {
-		
 		book: do(parent, args)
 			const book = books.filter do(book)
 				book.id === args.id
@@ -11,6 +10,5 @@ export const resolvers = {
 		
 		books: do
 			books
-
 	}
 }
