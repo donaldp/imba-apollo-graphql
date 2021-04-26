@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/donaldp/imba-apollo-graphql/dev/assets/imba.png" style="padding: 10px" width="10%">
+  <img src="https://raw.githubusercontent.com/donaldp/imba-apollo-graphql/dev/assets/imba.png" style="padding: 20px" width="10%">
 
-  <img src="https://raw.githubusercontent.com/donaldp/imba-apollo-graphql/dev/assets/apollo-logo-DC7DD3C444-seeklogo.com.png" style="padding: 10px" width="10%">
+  <img src="https://raw.githubusercontent.com/donaldp/imba-apollo-graphql/dev/assets/apollo-logo-DC7DD3C444-seeklogo.com.png" style="padding: 20px" width="10%">
 
-  <img src="https://raw.githubusercontent.com/donaldp/imba-apollo-graphql/dev/assets/graphql.png" style="padding: 10px" width="10%">
+  <img src="https://raw.githubusercontent.com/donaldp/imba-apollo-graphql/dev/assets/graphql.png" style="padding: 20px" width="10%">
 </p>
 
 
