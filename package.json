@@ -1,0 +1,16 @@
+{
+  "name": "imba-apollo-graphql",
+  "version": "1.0.0",
+  "description": "Apollo GraphQL Application in Imba",
+  "scripts": {
+    "start": "imba -w server.imba",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Donald Pakkies <donaldpakkies@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^2.23.0",
+    "graphql": "^15.5.0",
+    "imba": "^2.0.0-alpha.132"
+  }
+}
