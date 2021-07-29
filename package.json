@@ -11,6 +11,6 @@
   "dependencies": {
     "apollo-server": "^2.23.0",
     "graphql": "^15.5.0",
-    "imba": "^2.0.0-alpha.132"
+    "imba": "^2.0.0-alpha.155"
   }
 }
